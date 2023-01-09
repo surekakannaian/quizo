@@ -109,3 +109,32 @@ width: 50%;
                     
                 }
 }
+@media only screen and (max-width:480px){
+    .stunning .carousel{
+        position: relative;
+        top: 0;
+        width: 100%;
+    }
+    .carousel-item img{
+        height: 400px;
+        }
+        .stun .overlap{
+            width: 100%;
+        }
+        .stun .overlap p{
+           
+            left: 0%;
+         
+        }
+        .stunning .para{
+            width: 100%;
+            }
+            .stunning .button{
+                width: 100%;
+                }
+                .overlap p{
+                    
+                    left: 0%;
+                    
+                }
+}
