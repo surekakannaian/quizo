@@ -1,7 +1,10 @@
 header,footer{
     height: 100vh;
 }
-header,footer .buy{
+header .buy{
+    background-color: orangered;
+}
+footer .buy{
     background-color: orangered;
 }
 .overlap{
@@ -122,7 +125,7 @@ width: 50%;
             width: 100%;
         }
         .stun .overlap p{
-           
+           font-size:30px;
             left: 0%;
          
         }
@@ -133,7 +136,7 @@ width: 50%;
                 width: 100%;
                 }
                 .overlap p{
-                    
+                    font-size:30px;
                     left: 0%;
                     
                 }
